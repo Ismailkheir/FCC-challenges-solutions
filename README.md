@@ -1,3 +1,2 @@
 # FCC-challenges-solutions
-My solutions of FreeCodeCamp challenges
-Especially algorithms with javascript 
+My solutions of FreeCodeCamp challenges, especially algorithms with javascript. 
